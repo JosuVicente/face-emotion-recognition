@@ -1,0 +1,2 @@
+gender/[GENDER].wav
+emotion/[GENDER]/[EMOTION].wav
